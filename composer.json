@@ -1,0 +1,14 @@
+{
+    "name": "init/lib",
+    "description": "test composer init lib",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "xiazemin",
+            "email": "465474307@qq.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
